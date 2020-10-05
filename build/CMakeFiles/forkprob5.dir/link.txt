@@ -1,0 +1,1 @@
+/usr/bin/clang -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/forkprob5.dir/forkprob5.c.o CMakeFiles/forkprob5.dir/csapp.c.o  -o forkprob5 

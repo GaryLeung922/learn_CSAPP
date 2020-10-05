@@ -1,0 +1,1 @@
+/usr/bin/clang -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/waitpid0.dir/waitpid0.c.o CMakeFiles/waitpid0.dir/csapp.c.o  -o waitpid0 

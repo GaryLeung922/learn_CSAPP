@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tcp_backlog"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcp_backlog">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/tcp_backlog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 tcp_backlog"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tcp_backlog/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/tcp_backlog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 tcp_backlog/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysystem">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/mysystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysystem"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mysystem/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/mysystem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 mysystem/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myls">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/myls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 myls"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myls/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/myls" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 myls/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob8">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob8"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob8/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob8" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob8/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob7">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob7"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob7/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob7/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob5">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob5/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob5/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob4">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob4/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob1">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob1/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sleep0">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/sleep0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 sleep0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sleep0/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/sleep0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 sleep0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="setjmp">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/setjmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 setjmp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="setjmp/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/setjmp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 setjmp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="block">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/block" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 block"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="block/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/block" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 block/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="procmask2">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/procmask2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 procmask2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="procmask2/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/procmask2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 procmask2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="restart">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/restart" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 restart"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="restart/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/restart" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 restart/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="waitpid1">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/waitpid1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 waitpid1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="waitpid1/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/waitpid1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 waitpid1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigint1">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/sigint1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 sigint1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sigint1/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/sigint1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 sigint1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signal2">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/signal2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 signal2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signal2/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/signal2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 signal2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alarm0">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/alarm0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 alarm0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alarm0/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/alarm0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 alarm0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signal1">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/signal1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 signal1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signal1/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/signal1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 signal1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signalprob0">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/signalprob0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 signalprob0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signalprob0/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/signalprob0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 signalprob0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kill0">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/kill0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 kill0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kill0/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/kill0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 kill0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob2">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob2/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shellex">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/shellex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 shellex"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shellex/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/shellex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 shellex/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob6">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob6/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob3">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="forkprob3/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/forkprob3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 forkprob3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myecho">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/myecho" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 myecho"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="myecho/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/myecho" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 myecho/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="waitprob1">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/waitprob1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 waitprob1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="waitprob1/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/waitprob1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 waitprob1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="waitpid0">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/waitpid0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 waitpid0"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="waitpid0/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/waitpid0" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 waitpid0/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snooze">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/snooze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 snooze"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="snooze/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/snooze" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 snooze/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 test1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1/fast">
+				<Option output="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 test1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gopher/cpp/cpp/learn_CSAPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/alarm0.c">
+			<Option target="alarm0"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/block_pending.cpp">
+			<Option target="block"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/csapp.c">
+			<Option target="mysystem"/>
+			<Option target="myls"/>
+			<Option target="forkprob8"/>
+			<Option target="forkprob7"/>
+			<Option target="forkprob5"/>
+			<Option target="forkprob4"/>
+			<Option target="forkprob1"/>
+			<Option target="sleep0"/>
+			<Option target="setjmp"/>
+			<Option target="block"/>
+			<Option target="procmask2"/>
+			<Option target="restart"/>
+			<Option target="waitpid1"/>
+			<Option target="sigint1"/>
+			<Option target="signal2"/>
+			<Option target="alarm0"/>
+			<Option target="signal1"/>
+			<Option target="signalprob0"/>
+			<Option target="kill0"/>
+			<Option target="forkprob2"/>
+			<Option target="shellex"/>
+			<Option target="forkprob6"/>
+			<Option target="forkprob3"/>
+			<Option target="myecho"/>
+			<Option target="waitprob1"/>
+			<Option target="waitpid0"/>
+			<Option target="snooze"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/csapp.h">
+			<Option target="mysystem"/>
+			<Option target="myls"/>
+			<Option target="forkprob8"/>
+			<Option target="forkprob7"/>
+			<Option target="forkprob5"/>
+			<Option target="forkprob4"/>
+			<Option target="forkprob1"/>
+			<Option target="sleep0"/>
+			<Option target="setjmp"/>
+			<Option target="block"/>
+			<Option target="procmask2"/>
+			<Option target="restart"/>
+			<Option target="waitpid1"/>
+			<Option target="sigint1"/>
+			<Option target="signal2"/>
+			<Option target="alarm0"/>
+			<Option target="signal1"/>
+			<Option target="signalprob0"/>
+			<Option target="kill0"/>
+			<Option target="forkprob2"/>
+			<Option target="shellex"/>
+			<Option target="forkprob6"/>
+			<Option target="forkprob3"/>
+			<Option target="myecho"/>
+			<Option target="waitprob1"/>
+			<Option target="waitpid0"/>
+			<Option target="snooze"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob1.c">
+			<Option target="forkprob1"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob2.c">
+			<Option target="forkprob2"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob3.c">
+			<Option target="forkprob3"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob4.c">
+			<Option target="forkprob4"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob5.c">
+			<Option target="forkprob5"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob6.c">
+			<Option target="forkprob6"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob7.c">
+			<Option target="forkprob7"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/forkprob8.c">
+			<Option target="forkprob8"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/helloworld.c">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/kill0.c">
+			<Option target="kill0"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/myecho.c">
+			<Option target="myecho"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/myls.c">
+			<Option target="myls"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/mysystem.c">
+			<Option target="mysystem"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/procmask2.c">
+			<Option target="procmask2"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/restart.c">
+			<Option target="restart"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/setjmp.c">
+			<Option target="setjmp"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/shellex.c">
+			<Option target="shellex"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/sigint1.c">
+			<Option target="sigint1"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/signal1.c">
+			<Option target="signal1"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/signal2.c">
+			<Option target="signal2"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/signalprob0.c">
+			<Option target="signalprob0"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/sleep0.c">
+			<Option target="sleep0"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/snooze.c">
+			<Option target="snooze"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/tcp_backlog.c">
+			<Option target="tcp_backlog"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/waitpid0.c">
+			<Option target="waitpid0"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/waitpid1.c">
+			<Option target="waitpid1"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/waitprob1.c">
+			<Option target="waitprob1"/>
+		</Unit>
+		<Unit filename="/Users/gopher/cpp/cpp/learn_CSAPP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

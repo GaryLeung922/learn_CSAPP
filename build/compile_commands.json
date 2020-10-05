@@ -1,0 +1,282 @@
+[
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/tcp_backlog.dir/tcp_backlog.c.o   -c /Users/gopher/c++/CSAPP/tcp_backlog.c",
+  "file": "/Users/gopher/c++/CSAPP/tcp_backlog.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/mysystem.dir/mysystem.c.o   -c /Users/gopher/c++/CSAPP/mysystem.c",
+  "file": "/Users/gopher/c++/CSAPP/mysystem.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/mysystem.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/myls.dir/myls.c.o   -c /Users/gopher/c++/CSAPP/myls.c",
+  "file": "/Users/gopher/c++/CSAPP/myls.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/myls.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob8.dir/forkprob8.c.o   -c /Users/gopher/c++/CSAPP/forkprob8.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob8.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob8.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob7.dir/forkprob7.c.o   -c /Users/gopher/c++/CSAPP/forkprob7.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob7.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob7.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob5.dir/forkprob5.c.o   -c /Users/gopher/c++/CSAPP/forkprob5.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob5.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob5.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob4.dir/forkprob4.c.o   -c /Users/gopher/c++/CSAPP/forkprob4.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob4.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob4.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob1.dir/forkprob1.c.o   -c /Users/gopher/c++/CSAPP/forkprob1.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob1.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob1.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/sleep0.dir/sleep0.c.o   -c /Users/gopher/c++/CSAPP/sleep0.c",
+  "file": "/Users/gopher/c++/CSAPP/sleep0.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/sleep0.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/setjmp.dir/setjmp.c.o   -c /Users/gopher/c++/CSAPP/setjmp.c",
+  "file": "/Users/gopher/c++/CSAPP/setjmp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/setjmp.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang++    -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/block.dir/block_pending.cpp.o -c /Users/gopher/c++/CSAPP/block_pending.cpp",
+  "file": "/Users/gopher/c++/CSAPP/block_pending.cpp"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/block.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/procmask2.dir/procmask2.c.o   -c /Users/gopher/c++/CSAPP/procmask2.c",
+  "file": "/Users/gopher/c++/CSAPP/procmask2.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/procmask2.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/restart.dir/restart.c.o   -c /Users/gopher/c++/CSAPP/restart.c",
+  "file": "/Users/gopher/c++/CSAPP/restart.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/restart.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/waitpid1.dir/waitpid1.c.o   -c /Users/gopher/c++/CSAPP/waitpid1.c",
+  "file": "/Users/gopher/c++/CSAPP/waitpid1.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/waitpid1.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/sigint1.dir/sigint1.c.o   -c /Users/gopher/c++/CSAPP/sigint1.c",
+  "file": "/Users/gopher/c++/CSAPP/sigint1.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/sigint1.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/signal2.dir/signal2.c.o   -c /Users/gopher/c++/CSAPP/signal2.c",
+  "file": "/Users/gopher/c++/CSAPP/signal2.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/signal2.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/alarm0.dir/alarm0.c.o   -c /Users/gopher/c++/CSAPP/alarm0.c",
+  "file": "/Users/gopher/c++/CSAPP/alarm0.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/alarm0.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/signal1.dir/signal1.c.o   -c /Users/gopher/c++/CSAPP/signal1.c",
+  "file": "/Users/gopher/c++/CSAPP/signal1.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/signal1.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/signalprob0.dir/signalprob0.c.o   -c /Users/gopher/c++/CSAPP/signalprob0.c",
+  "file": "/Users/gopher/c++/CSAPP/signalprob0.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/signalprob0.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/kill0.dir/kill0.c.o   -c /Users/gopher/c++/CSAPP/kill0.c",
+  "file": "/Users/gopher/c++/CSAPP/kill0.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/kill0.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob2.dir/forkprob2.c.o   -c /Users/gopher/c++/CSAPP/forkprob2.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob2.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob2.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/shellex.dir/shellex.c.o   -c /Users/gopher/c++/CSAPP/shellex.c",
+  "file": "/Users/gopher/c++/CSAPP/shellex.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/shellex.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob6.dir/forkprob6.c.o   -c /Users/gopher/c++/CSAPP/forkprob6.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob6.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob6.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob3.dir/forkprob3.c.o   -c /Users/gopher/c++/CSAPP/forkprob3.c",
+  "file": "/Users/gopher/c++/CSAPP/forkprob3.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/forkprob3.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/myecho.dir/myecho.c.o   -c /Users/gopher/c++/CSAPP/myecho.c",
+  "file": "/Users/gopher/c++/CSAPP/myecho.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/myecho.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/waitprob1.dir/waitprob1.c.o   -c /Users/gopher/c++/CSAPP/waitprob1.c",
+  "file": "/Users/gopher/c++/CSAPP/waitprob1.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/waitprob1.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/waitpid0.dir/waitpid0.c.o   -c /Users/gopher/c++/CSAPP/waitpid0.c",
+  "file": "/Users/gopher/c++/CSAPP/waitpid0.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/waitpid0.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/snooze.dir/snooze.c.o   -c /Users/gopher/c++/CSAPP/snooze.c",
+  "file": "/Users/gopher/c++/CSAPP/snooze.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/snooze.dir/csapp.c.o   -c /Users/gopher/c++/CSAPP/csapp.c",
+  "file": "/Users/gopher/c++/CSAPP/csapp.c"
+},
+{
+  "directory": "/Users/gopher/c++/CSAPP/build",
+  "command": "/usr/bin/clang   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/test1.dir/helloworld.c.o   -c /Users/gopher/c++/CSAPP/helloworld.c",
+  "file": "/Users/gopher/c++/CSAPP/helloworld.c"
+}
+]

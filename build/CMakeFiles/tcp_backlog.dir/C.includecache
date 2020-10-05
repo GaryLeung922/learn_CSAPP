@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gopher/c++/CSAPP/tcp_backlog.c
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+errno.h
+-
+arpa/inet.h
+-
+

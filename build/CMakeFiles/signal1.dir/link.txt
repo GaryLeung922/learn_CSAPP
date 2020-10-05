@@ -1,0 +1,1 @@
+/usr/bin/clang -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/signal1.dir/signal1.c.o CMakeFiles/signal1.dir/csapp.c.o  -o signal1 
